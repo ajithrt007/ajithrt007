@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently doing internships at Zackriya Solutions as Full Stack Web developer, Trizlabz as ROS developer and Cyberdom Kerala Police as UI UX Designer<br>New to the world Tech<br>Currently learning React, ROS
+I'm currently doing internships at Zackriya Solutions as Full Stack Web developer, Trizlabz as ROS developer and Cyberdom Kerala Police as UI UX Designer<br>New to the Tech World<br>Currently learning React, ROS
 
 
 ## 🌐 Socials:
